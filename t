@@ -89,7 +89,7 @@
           <a class="hide" href="#produits">Produits</a>
           <a class="hide" href="#avantages">Avantages</a>
           <a class="hide" href="#contact">Contact</a>
-          <a class="btn primary" href="https://wa.me/212600000000" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="btn primary" href="https://*https://wa.me/212693638753" target="_blank" rel="noopener">WhatsApp</a>
         </nav>
       </header>
     </div>
@@ -141,14 +141,30 @@
 
     <section id="produits" class="section">
       <h2>Produits</h2>
-      <div class="split">
-        <div class="card item">
-          <b>Microfibres detailing</b>
-          <div class="p">Pour extérieur/intérieur, essuyage, polish, cire, quick detailer.</div>
-          <ul class="list">
-            <li>Plusieurs tailles & couleurs</li>
-            <li>Forte absorption</li>
-            <li>Durables, lavables</li>
+      <section id="produits" class="section">
+  <h2>Produits</h2>
+
+  <div class="split">
+    <div class="card item">
+      <b>Microfiber Towel – Zayris Trading</b>
+      <p class="p">Microfibre premium pour detailing auto et nettoyage. Douce, très absorbante, finition sans traces.</p>
+      <ul class="list">
+        <li>Carrosserie & séchage</li>
+        <li>Vitres & intérieur</li>
+        <li>Réutilisable et lavable</li>
+      </ul>
+      <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap">
+        <a class="btn gold" href="https://wa.me/212693638753" target="_blank" rel="noopener">Commander</a>
+        <a class="btn" href="#contact">Prix revendeur</a>
+      </div>
+    </div>
+
+    <div class="card heroImg" style="min-height:340px">
+      <img src="product-1.jpg" alt="Microfiber towel Zayris Trading">
+    </div>
+  </div>
+</section>
+
           </ul>
         </div>
         <div class="card item">
@@ -166,8 +182,8 @@
     <section id="contact" class="section">
       <h2>Contact</h2>
       <div class="card item">
-        <p class="p"><b>Téléphone / WhatsApp :</b> +212 6XX XX XX XX</p>
-        <p class="p"><b>Email :</b> contact@zayristrading.ma</p>
+        <p class="p"><b>Téléphone / WhatsApp :</b> +212 693 63 87 53</p>
+        <p class="p"><b>Email :</b> contact@zayristrading </p>
         <p class="p"><b>Ville :</b> Agadir, Maroc</p>
         <p class="p" style="margin-top:10px;">Heures: Lun–Sam, 9h–19h (à modifier).</p>
       </div>
